@@ -1,0 +1,312 @@
+solid 1
+ facet normal        0        1        0
+  outer loop
+   vertex        0    200.1    -2400
+   vertex       50    200.1    -2350
+   vertex     2400    200.1    -2400
+  endloop
+ endfacet
+ facet normal        0        1       -0
+  outer loop
+   vertex       50    200.1    -2350
+   vertex        0    200.1    -2400
+   vertex       50    200.1      -50
+  endloop
+ endfacet
+ facet normal        0        1        0
+  outer loop
+   vertex     2400    200.1    -2400
+   vertex     2350    200.1    -2350
+   vertex     2350    200.1      -50
+  endloop
+ endfacet
+ facet normal        0        1        0
+  outer loop
+   vertex     2350    200.1    -2350
+   vertex     2400    200.1    -2400
+   vertex       50    200.1    -2350
+  endloop
+ endfacet
+ facet normal        0        1       -0
+  outer loop
+   vertex       50    200.1      -50
+   vertex        0    200.1        0
+   vertex     2350    200.1      -50
+  endloop
+ endfacet
+ facet normal        0        1        0
+  outer loop
+   vertex        0    200.1        0
+   vertex       50    200.1      -50
+   vertex        0    200.1    -2400
+  endloop
+ endfacet
+ facet normal       -0        1        0
+  outer loop
+   vertex     2350    200.1      -50
+   vertex     2400    200.1        0
+   vertex     2400    200.1    -2400
+  endloop
+ endfacet
+ facet normal        0        1        0
+  outer loop
+   vertex     2400    200.1        0
+   vertex     2350    200.1      -50
+   vertex        0    200.1        0
+  endloop
+ endfacet
+ facet normal        0       -1        0
+  outer loop
+   vertex     2400      0.1    -2400
+   vertex       50      0.1    -2350
+   vertex        0      0.1    -2400
+  endloop
+ endfacet
+ facet normal        0       -1       -0
+  outer loop
+   vertex       50      0.1      -50
+   vertex        0      0.1    -2400
+   vertex       50      0.1    -2350
+  endloop
+ endfacet
+ facet normal        0       -1        0
+  outer loop
+   vertex     2350      0.1      -50
+   vertex     2350      0.1    -2350
+   vertex     2400      0.1    -2400
+  endloop
+ endfacet
+ facet normal        0       -1        0
+  outer loop
+   vertex       50      0.1    -2350
+   vertex     2400      0.1    -2400
+   vertex     2350      0.1    -2350
+  endloop
+ endfacet
+ facet normal        0       -1        0
+  outer loop
+   vertex     2350      0.1      -50
+   vertex        0      0.1        0
+   vertex       50      0.1      -50
+  endloop
+ endfacet
+ facet normal        0       -1        0
+  outer loop
+   vertex        0      0.1    -2400
+   vertex       50      0.1      -50
+   vertex        0      0.1        0
+  endloop
+ endfacet
+ facet normal        0       -1        0
+  outer loop
+   vertex     2400      0.1    -2400
+   vertex     2400      0.1        0
+   vertex     2350      0.1      -50
+  endloop
+ endfacet
+ facet normal        0       -1        0
+  outer loop
+   vertex        0      0.1        0
+   vertex     2350      0.1      -50
+   vertex     2400      0.1        0
+  endloop
+ endfacet
+ facet normal       -1        0        0
+  outer loop
+   vertex        0    200.1    -2400
+   vertex        0      0.1    -2400
+   vertex        0      0.1        0
+  endloop
+ endfacet
+ facet normal       -1        0        0
+  outer loop
+   vertex        0      0.1        0
+   vertex        0    200.1        0
+   vertex        0    200.1    -2400
+  endloop
+ endfacet
+ facet normal        0        0        1
+  outer loop
+   vertex        0    200.1        0
+   vertex        0      0.1        0
+   vertex     2400      0.1        0
+  endloop
+ endfacet
+ facet normal        0       -0        1
+  outer loop
+   vertex     2400      0.1        0
+   vertex     2400    200.1        0
+   vertex        0    200.1        0
+  endloop
+ endfacet
+ facet normal        1        0        0
+  outer loop
+   vertex     2400    200.1        0
+   vertex     2400      0.1        0
+   vertex     2400      0.1    -2400
+  endloop
+ endfacet
+ facet normal        1        0        0
+  outer loop
+   vertex     2400      0.1    -2400
+   vertex     2400    200.1    -2400
+   vertex     2400    200.1        0
+  endloop
+ endfacet
+ facet normal        0       -0       -1
+  outer loop
+   vertex     2400    200.1    -2400
+   vertex     2400      0.1    -2400
+   vertex        0      0.1    -2400
+  endloop
+ endfacet
+ facet normal        0        0       -1
+  outer loop
+   vertex        0      0.1    -2400
+   vertex        0    200.1    -2400
+   vertex     2400    200.1    -2400
+  endloop
+ endfacet
+ facet normal        0        0        1
+  outer loop
+   vertex       50      0.1    -2350
+   vertex     2350      0.1    -2350
+   vertex     2350    200.1    -2350
+  endloop
+ endfacet
+ facet normal        0        0        1
+  outer loop
+   vertex     2350    200.1    -2350
+   vertex       50    200.1    -2350
+   vertex       50      0.1    -2350
+  endloop
+ endfacet
+ facet normal        1        0        0
+  outer loop
+   vertex       50      0.1      -50
+   vertex       50      0.1    -2350
+   vertex       50    200.1    -2350
+  endloop
+ endfacet
+ facet normal        1        0       -0
+  outer loop
+   vertex       50    200.1    -2350
+   vertex       50    200.1      -50
+   vertex       50      0.1      -50
+  endloop
+ endfacet
+ facet normal        0        0       -1
+  outer loop
+   vertex     2350      0.1      -50
+   vertex       50      0.1      -50
+   vertex       50    200.1      -50
+  endloop
+ endfacet
+ facet normal        0        0       -1
+  outer loop
+   vertex       50    200.1      -50
+   vertex     2350    200.1      -50
+   vertex     2350      0.1      -50
+  endloop
+ endfacet
+ facet normal       -1        0        0
+  outer loop
+   vertex     2350      0.1    -2350
+   vertex     2350      0.1      -50
+   vertex     2350    200.1      -50
+  endloop
+ endfacet
+ facet normal       -1        0       -0
+  outer loop
+   vertex     2350    200.1      -50
+   vertex     2350    200.1    -2350
+   vertex     2350      0.1    -2350
+  endloop
+ endfacet
+endsolid 1 written by HOOPS Exchange
+solid 2
+ facet normal        0        0        1
+  outer loop
+   vertex        0      0.1        0
+   vertex        0        0        0
+   vertex     2400        0        0
+  endloop
+ endfacet
+ facet normal        0       -0        1
+  outer loop
+   vertex     2400        0        0
+   vertex     2400      0.1        0
+   vertex        0      0.1        0
+  endloop
+ endfacet
+ facet normal        1        0        0
+  outer loop
+   vertex     2400      0.1        0
+   vertex     2400        0        0
+   vertex     2400        0    -2400
+  endloop
+ endfacet
+ facet normal        1        0        0
+  outer loop
+   vertex     2400        0    -2400
+   vertex     2400      0.1    -2400
+   vertex     2400      0.1        0
+  endloop
+ endfacet
+ facet normal        0        0       -1
+  outer loop
+   vertex     2400        0    -2400
+   vertex        0        0    -2400
+   vertex        0      0.1    -2400
+  endloop
+ endfacet
+ facet normal        0        0       -1
+  outer loop
+   vertex        0      0.1    -2400
+   vertex     2400      0.1    -2400
+   vertex     2400        0    -2400
+  endloop
+ endfacet
+ facet normal       -1        0        0
+  outer loop
+   vertex        0        0    -2400
+   vertex        0        0        0
+   vertex        0      0.1        0
+  endloop
+ endfacet
+ facet normal       -1        0       -0
+  outer loop
+   vertex        0      0.1        0
+   vertex        0      0.1    -2400
+   vertex        0        0    -2400
+  endloop
+ endfacet
+ facet normal        0        1        0
+  outer loop
+   vertex     2400      0.1    -2400
+   vertex        0      0.1    -2400
+   vertex        0      0.1        0
+  endloop
+ endfacet
+ facet normal       -0        1        0
+  outer loop
+   vertex        0      0.1        0
+   vertex     2400      0.1        0
+   vertex     2400      0.1    -2400
+  endloop
+ endfacet
+ facet normal        0       -1        0
+  outer loop
+   vertex        0        0        0
+   vertex        0        0    -2400
+   vertex     2400        0    -2400
+  endloop
+ endfacet
+ facet normal        0       -1        0
+  outer loop
+   vertex     2400        0    -2400
+   vertex     2400        0        0
+   vertex        0        0        0
+  endloop
+ endfacet
+endsolid 2 written by HOOPS Exchange
